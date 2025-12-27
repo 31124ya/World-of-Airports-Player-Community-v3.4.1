@@ -1,5 +1,4 @@
-# World of Airports (WoA) 玩家交流群 v3.4.1 管理规定
-# World of Airports (WoA) Player Community v3.4.1 Regulations
+# World of Airports (WoA) 玩家交流群 v3.4.1 管理规定 | World of Airports (WoA) Player Community v3.4.1 Regulations
 
 ---
 
