@@ -8,7 +8,7 @@
 **建议格式：`游戏名 + 常用/主基地机场`**
 **Recommended Format: `Game Name + Favorite/Base Airport`**
 * **说明：** 建议入群后修改备注（如：`SubtropicalBat74 - HKG`），这并非强制要求，但可以方便其他玩家派发航班。
-  **Note:** We recommended to update your nickname (e.g., `SubtropicalBat74 - HKG`). This is not mandatory, but it helps other captains find you and dispatch flights more easily.
+**Note:** We recommended to update your nickname (e.g., `SubtropicalBat74 - HKG`). This is not mandatory, but it helps other captains find you and dispatch flights more easily.
 
 ---
 
